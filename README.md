@@ -44,6 +44,6 @@
 
 <img align="left" alt="github stats." src="https://github-readme-stats.vercel.app/api?username=insannityxd&show_icons=true&hide_border=true" />
 
-## Interesses:
+## Interests:
 
 dogs, technology, automation, dogs, games, music(just listen, i suck at playing kekw), dogs.
