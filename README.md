@@ -11,7 +11,7 @@
 ![Info](https://img.shields.io/static/v1?label=&message=18y,%20male,%20Brazil.&color=blue&style=flat-square)
 
 ![Hobbies](https://img.shields.io/static/v1?label=&message=Hobbies%3A&color=111&style=flat-square)
-![Hobbies](https://img.shields.io/static/v1?label=&message=play%20games,%20bot%20development.&color=blue&style=flat-square)
+![Hobbies](https://img.shields.io/static/v1?label=&message=play%20games,%20development.&color=blue&style=flat-square)
 
 ![Stack](https://img.shields.io/static/v1?label=&message=Stack%3A&color=111&style=flat-square)
 ![Stack](https://img.shields.io/static/v1?label=&message=fullstack,%20back-end%20focused.&color=blue&style=flat-square)
@@ -44,4 +44,4 @@
 
 ## Interests:
 
-dogs, technology, automation, dogs, games, music(just listen, i suck at playing kekw), dogs.
+dogs, technology, automation, dogs, games, music, dogs.
