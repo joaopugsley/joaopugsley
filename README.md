@@ -8,7 +8,7 @@
 ![Name](https://img.shields.io/static/v1?label=&message=João%20Vitor%20Pugsley.&color=blue&style=flat-square)
 
 ![Info](https://img.shields.io/static/v1?label=&message=Info%3A&color=111&style=flat-square)
-![Info](https://img.shields.io/static/v1?label=&message=18y,%20male,%20Brazil.&color=blue&style=flat-square)
+![Info](https://img.shields.io/static/v1?label=&message=19y,%20male,%20Brazil.&color=blue&style=flat-square)
 
 ![Hobbies](https://img.shields.io/static/v1?label=&message=Hobbies%3A&color=111&style=flat-square)
 ![Hobbies](https://img.shields.io/static/v1?label=&message=play%20games,%20development.&color=blue&style=flat-square)
