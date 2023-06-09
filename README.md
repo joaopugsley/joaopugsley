@@ -18,7 +18,7 @@
 
 ![Contact](https://img.shields.io/static/v1?label=&message=Contact%3A&color=111&style=flat-square)
 ![Contact](https://img.shields.io/static/v1?logo=GMAIL&label=&message=joaopugsleyy%40gmail.com&color=blue&logoColor=white&style=flat-square)
-![Contact](https://img.shields.io/static/v1?logo=discord&label=&message=Insannity%230243&color=blue&logoColor=white&style=flat-square)
+![Contact](https://img.shields.io/static/v1?logo=discord&label=&message=Insannity&color=blue&logoColor=white&style=flat-square)
 
 
 <br />
