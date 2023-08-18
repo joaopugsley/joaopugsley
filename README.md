@@ -22,7 +22,7 @@
 
 </div>
 
-<div align="center">
+<div align="center" style="display: flex; flex-direction: column;">
     <img src="https://komarev.com/ghpvc/?username=insannityxd&label=Profile%20views&color=0442b5&style=flat" alt="Profile Views"/>
     <img style="margin-top: 8px;" width="350em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=insannityxd&layout=compact&langs_count=7&theme=radical"/> 
 </div>
