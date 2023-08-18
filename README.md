@@ -27,5 +27,5 @@
 </div>
 
 <div align="center" style="margin-top: 6px;">
-    <img src="https://komarev.com/ghpvc/?username=insannityxd&label=Profile%20views&color=0442b5&style=flat" alt="Profile Views"/>
+    <img href="#" src="https://komarev.com/ghpvc/?username=insannityxd&label=Profile%20views&color=0442b5&style=flat" alt="Profile Views"/>
 </div>
