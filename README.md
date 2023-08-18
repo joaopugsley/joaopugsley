@@ -23,9 +23,9 @@
 </div>
 
 <div align="center">
-    <img src="https://komarev.com/ghpvc/?username=insannityxd&label=Profile%20views&color=0442b5&style=flat" alt="Profile Views"/>
+    <img width="350em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=insannityxd&layout=compact&langs_count=7&theme=radical"/> 
 </div>
 
-<div align="center">
-    <img style="margin-top: 8px;" width="350em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=insannityxd&layout=compact&langs_count=7&theme=radical"/> 
+<div align="center" style="margin-top: 6px;">
+    <img src="https://komarev.com/ghpvc/?username=insannityxd&label=Profile%20views&color=0442b5&style=flat" alt="Profile Views"/>
 </div>
