@@ -20,7 +20,9 @@
    - HTML <img align="center" alt="Html" height="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg"/>
    - CSS/SCSS <img align="center" alt="Css" height="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain-wordmark.svg"/>
 
-    <p align="left"><img src="https://komarev.com/ghpvc/?username=insannityxd&label=Profile%20views&color=0442b5&style=flat" alt="Profile Views"/></p>
+    <p align="left">
+       <img src="https://komarev.com/ghpvc/?username=insannityxd&label=Profile%20views&color=0442b5&style=flat" alt="Profile Views"/>
+    </p>
 
 </div>
 
