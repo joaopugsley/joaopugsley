@@ -1,11 +1,11 @@
 <div style="display: inline_block"><br>
 
-   <img align="right" width="420" src="https://i.imgur.com/Cj5ebJp.png"/>
+   <img align="right" width="350" src="https://i.imgur.com/Cj5ebJp.png"/>
 
    #### João Pugsley
 
-   - 📫 How to contact me: <a href="https://www.linkedin.com/in/joaopugsley" target="_blank">LinkedIn</a> or <a href="mailto:joaopugsleyy@gmail.com" target="_blank">joaopugsleyy@gmail.com</a>
-   - 🧠 Currently learning: <a href="https://www.rust-lang.org/" target="_blank">Rust 🦀</a>, <a href="https://nestjs.com/" target="_blank">NestJs</a> <img align="center" alt="NestJs" height="20" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nestjs/nestjs-plain.svg">, <a href="https://vuejs.org/" target="_blank">VueJs</a> <img align="center" alt="VueJs" height="20" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original.svg">
+   - 📫 How to contact me: <a href="https://www.linkedin.com/in/joaopugsley" target="_blank">LinkedIn</a>, <a href="mailto:joaopugsleyy@gmail.com" target="_blank">joaopugsleyy@gmail.com</a>
+   - 🧠 Currently learning: Rust 🦀, NestJs <img align="center" alt="NestJs" height="20" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nestjs/nestjs-plain.svg">, VueJs <img align="center" alt="VueJs" height="20" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original.svg">
    - ⚡ Interests: dogs 🐕, technology ⚙, raccoons 🦝, automation 🤖, dogs 🐕, games 🕹, raccoons 🦝, music 🎵, dogs 🐕.
 
    #### Main stack:
