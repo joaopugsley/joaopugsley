@@ -1,47 +1,25 @@
-# > Hello World! 👺
+<div style="display: inline_block"><br>
 
-<img align="right" src="https://i.imgur.com/Cj5ebJp.png" width="420" height="420" />
+<img align="right" width="420"src="https://i.imgur.com/Cj5ebJp.png"/>
 
-## About me.
+#### João Pugsley
 
-![Name](https://img.shields.io/static/v1?label=&message=Name%3A&color=111&style=flat-square)
-![Name](https://img.shields.io/static/v1?label=&message=João%20Vitor%20Pugsley.&color=blue&style=flat-square)
+- 📫 How to contact me: <a href="https://www.linkedin.com/in/joaopugsley" target="_blank">LinkedIn</a> or <a href="mailto:joaopugsleyy@gmail.com" target="_blank">joaopugsleyy@gmail.com</a>
+- 🧠 Currently learning: <a href="https://www.rust-lang.org/" target="_blank">Rust 🦀</a>, <a href="https://nestjs.com/" target="_blank">NestJs</a> <img align="center" alt="NestJs" height="20" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nestjs/nestjs-plain.svg">, <a href="https://vuejs.org/" target="_blank">VueJs</a> <img align="center" alt="VueJs" height="20" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original.svg">
+- ⚡ Interests: dogs 🐕, technology ⚙, raccoons 🦝, automation 🤖, dogs 🐕, games 🕹, raccoons 🦝, music 🎵, dogs 🐕.
 
-![Info](https://img.shields.io/static/v1?label=&message=Info%3A&color=111&style=flat-square)
-![Info](https://img.shields.io/static/v1?label=&message=19y,%20male,%20Brazil.&color=blue&style=flat-square)
+#### Main stack:
+- JavaScript <img align="center" alt="Javascript" height="20" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+- NodeJS <img align="center" alt="Node" height="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-plain-wordmark.svg"/>
+- TypeScript <img align="center" alt="Typescript" height="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg"/>
+- NextJs <img align="center" alt="NextJs" height="20" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg"/>
+- ReactJs <img align="center" alt="ReactJs" height="20" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg"/>
+- MongoDB <img align="center" alt="MongoDB" height="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-plain-wordmark.svg"/>
+- HTML <img align="center" alt="Html" height="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg"/>
+- CSS/SCSS <img align="center" alt="Css" height="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain-wordmark.svg"/>
 
-![Hobbies](https://img.shields.io/static/v1?label=&message=Hobbies%3A&color=111&style=flat-square)
-![Hobbies](https://img.shields.io/static/v1?label=&message=play%20games,%20development.&color=blue&style=flat-square)
+</div>
 
-![Stack](https://img.shields.io/static/v1?label=&message=Stack%3A&color=111&style=flat-square)
-![Stack](https://img.shields.io/static/v1?label=&message=fullstack,%20back-end%20focused.&color=blue&style=flat-square)
-
-![Contact](https://img.shields.io/static/v1?label=&message=Contact%3A&color=111&style=flat-square)
-![Contact](https://img.shields.io/static/v1?logo=GMAIL&label=&message=joaopugsleyy%40gmail.com&color=blue&logoColor=white&style=flat-square)
-![Contact](https://img.shields.io/static/v1?logo=discord&label=&message=Insannity&color=blue&logoColor=white&style=flat-square)
-
-
-<br />
-
-## Languages:
-
-<img align="left" alt="Node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />
-<img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
-<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
-<img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
-<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
-<img align="left" alt="Python" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"/>
-<img align="left" alt="Lua" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/lua/lua.png" />
-
-<br />
-<br />
-
----
-
-<br />
-
-<img align="left" alt="github stats." src="https://github-readme-stats.vercel.app/api?username=insannityxd&show_icons=true&hide_border=true" />
-
-## Interests:
-
-dogs, technology, automation, dogs, games, music, dogs.
+<div align="center">
+    <img width="350em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=insannityxd&layout=compact&langs_count=7&theme=radical"/> 
+</div>
