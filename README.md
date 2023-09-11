@@ -9,11 +9,11 @@
    - ⚡ Interests: dogs 🐕, technology ⚙, raccoons 🦝, automation 🤖, dogs 🐕, games 🕹, raccoons 🦝, music 🎵, dogs 🐕.
 
    #### Main stack
-   - JavaScript <img align="center" alt="Javascript" height="20" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-   - NodeJS <img align="center" alt="Node" height="20" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-plain.svg"/>
-   - TypeScript <img align="center" alt="Typescript" height="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg"/>
    - NextJs <img align="center" alt="NextJs" height="20" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg"/>
    - ReactJs <img align="center" alt="ReactJs" height="20" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg"/>
+   - NodeJS <img align="center" alt="Node" height="20" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-plain.svg"/>
+   - JavaScript <img align="center" alt="Javascript" height="20" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+   - TypeScript <img align="center" alt="Typescript" height="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg"/>
    - MongoDB <img align="center" alt="MongoDB" height="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-plain-wordmark.svg"/>
    - Firebase <img align="center" alt="Firebase" height="20" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/firebase/firebase-plain.svg"/>
    - TailwindCSS <img align="center" alt="TailwindCSS" height="20" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-plain.svg"/>
