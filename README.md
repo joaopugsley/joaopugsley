@@ -1,31 +1,37 @@
-<div style="display: inline_block"><br>
+<samp>
 
-   <img align="right" width="350" src="https://i.imgur.com/Cj5ebJp.png"/>
+Hi there! Im a Full Stack (Backend focused) Developer and i strongly love low-level programming.
 
-   #### About Me
+I've worked with several technologies between backend and frontend. The languages i currently mostly use are JavaScript, C# and Rust.
 
-   - 📫 How to contact me: <a href="https://www.linkedin.com/in/joaopugsley" target="_blank">LinkedIn</a> & <a href="mailto:joaopugsleyy@gmail.com" target="_blank">joaopugsleyy@gmail.com</a>
-   - 🧠 Currently learning: Rust 🦀, NestJs <img align="center" alt="NestJs" height="20" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nestjs/nestjs-plain.svg">, VueJs <img align="center" alt="VueJs" height="20" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original.svg">
-   - ⚡ Interests: dogs 🐕, technology ⚙, raccoons 🦝, automation 🤖, dogs 🐕, games 🕹, raccoons 🦝, music 🎵, dogs 🐕.
+I'm currently working on a CPPS [Club Penguin Avalanche](https://cpavalanche.net).
 
-   #### Main stack
-   - NextJs <img align="center" alt="NextJs" height="20" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg"/>
-   - ReactJs <img align="center" alt="ReactJs" height="20" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg"/>
-   - NodeJS <img align="center" alt="Node" height="20" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-plain.svg"/>
-   - JavaScript <img align="center" alt="Javascript" height="20" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-   - TypeScript <img align="center" alt="Typescript" height="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg"/>
-   - MongoDB <img align="center" alt="MongoDB" height="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-plain-wordmark.svg"/>
-   - Firebase <img align="center" alt="Firebase" height="20" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/firebase/firebase-plain.svg"/>
-   - TailwindCSS <img align="center" alt="TailwindCSS" height="20" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-plain.svg"/>
-   - HTML <img align="center" alt="Html" height="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg"/>
-   - CSS/SCSS <img align="center" alt="Css" height="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain-wordmark.svg"/>
+Interests:
 
-</div>
+1. Tech Interests
+    - Compilers
+    - JIT Compilers
+    - VMs
+    - Emulators
+    - Web Technology (ECMAScript, WebKit, WebGL)
+    - Systems (Kernels and OS)
 
-<div align="center">
-    <img width="350em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaopugsley&layout=compact&langs_count=7&theme=radical"/> 
-</div>
+2. Other Interests
+    - Music (I play electric guitar)
+    - Souls Like games
+    - Game Development
 
-<div align="center" style="margin-top: 6px;">
-    <img src="https://komarev.com/ghpvc/?username=joaopugsley&label=Profile%20views&color=0442b5&style=flat" alt="Profile Views"/>
-</div>
+<p style="inline-block">
+    Check out my
+    <a href="https://joaopugsley.dev">website (outdated)</a>, 
+    <a href="https://www.linkedin.com/in/joaopugsley">linkedin</a> & 
+    <a href="https://twitter.com/nityx64">twitter</a>.
+</p>
+
+<p style="inline-block">
+    Reach me on my
+    <a href="mailto:joaopugsleyy@gmail.com">email</a> (joaopugsleyy@gmail.com) or
+    <a href="https://www.linkedin.com/in/joaopugsley">linkedin</a>.
+</p>
+
+</samp>
