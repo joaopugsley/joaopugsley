@@ -23,7 +23,7 @@ Interests:
 
 <p style="inline-block">
     Check out my
-    <a href="https://joaopugsley.dev">website (outdated)</a>, 
+    <a href="https://joaopugsley.dev">website</a>, 
     <a href="https://www.linkedin.com/in/joaopugsley">linkedin</a> & 
     <a href="https://twitter.com/nityx64">twitter</a>.
 </p>
